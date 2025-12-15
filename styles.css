@@ -805,6 +805,18 @@ a:hover {
   color: var(--color-text);
 }
 
+a.favorite-film--linked {
+  background: var(--color-primary);
+  color: white;
+  text-decoration: none;
+}
+
+a.favorite-film--linked:hover {
+  background: var(--color-primary-dark);
+  color: white;
+  text-decoration: none;
+}
+
 /* Breadcrumb */
 .breadcrumb {
   display: flex;
