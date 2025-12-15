@@ -84,7 +84,6 @@ Each with unique descriptions linking to external profiles:
 - Quora
 - Wattpad
 - Goodreads (with book reviews)
-- Academia.edu
 - SpeakerDeck
 - Issuu
 - Scribd
@@ -146,7 +145,6 @@ Each with unique descriptions linking to external profiles:
   "https://www.goodreads.com/haro_gharbigi",
   "https://www.goodreads.com/review/show/8149080661",
   "https://www.goodreads.com/review/show/8149083753",
-  "https://www.academia.edu/145289795/The_CEOs_Guide_to_AI_Why_Every_Business_Owner_Needs_an_Implementation_Strategy_in_2025",
   "https://speakerdeck.com/harogharbigi",
   "https://www.trustpilot.com/users/69320403d7ccaa38575df8cc",
   "https://issuu.com/haro-gharbigi/docs/haro_gharbigi_-_the_ceo_s_guide_to_artificial_inte",
@@ -201,7 +199,6 @@ haro-gharbigi.com/
     ├── wordpress.html
     ├── quora.html
     ├── goodreads.html
-    ├── academia.html
     ├── speakerdeck.html
     ├── issuu.html
     ├── scribd.html
